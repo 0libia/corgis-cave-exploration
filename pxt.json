@@ -1,5 +1,5 @@
 {
-    "name": "Corgi's Cave Exploration",
+    "name": "Build your own Meal",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.7.24",
+        "target": "1.8.20",
         "targetId": "arcade"
     },
     "supportedTargets": [
